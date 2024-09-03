@@ -16,6 +16,7 @@ I'm passionate about blockchain and specialize in setting up nodes and validator
 - **Security:** Best practices for protecting nodes and validators.
 
 ## My Guides
+- [Analog Validator Guide](https://github.com/SamirranTap/my-guides/blob/main/Analog/Analog-Validator-Node.md)
 - [Warden Guide](https://github.com/SamirranTap/my-guides/blob/main/warden/warden-guide.md)
 - [CrossFi Guide](https://github.com/SamirranTap/my-guides/blob/main/crossfi/crossfi-guide.md)
 - [0G Node Guide](https://github.com/SamirranTap/my-guides/blob/main/0g/0g-node-guide.md)
